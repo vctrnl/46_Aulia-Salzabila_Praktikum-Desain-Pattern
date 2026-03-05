@@ -3,32 +3,36 @@
   "WorkspaceRootPath": "C:\\Users\\Lia\\source\\repos\\46_Aulia_Praktikum Desain Pattern\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{6321FEB9-5D85-45FC-843A-1ED4FBCD480B}|46_Aulia_Praktikum Desain Pattern.vcxproj|C:\\Users\\Lia\\source\\repos\\46_Aulia_Praktikum Desain Pattern\\main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{6321FEB9-5D85-45FC-843A-1ED4FBCD480B}|46_Aulia_Praktikum Desain Pattern.vcxproj|solutionrelative:main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+      "AbsoluteMoniker": "D:0:0:{6321FEB9-5D85-45FC-843A-1ED4FBCD480B}|46_Aulia_Praktikum Desain Pattern.vcxproj|C:\\Users\\Lia\\source\\repos\\46_Aulia_Praktikum Desain Pattern\\hand.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{6321FEB9-5D85-45FC-843A-1ED4FBCD480B}|46_Aulia_Praktikum Desain Pattern.vcxproj|solutionrelative:hand.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6321FEB9-5D85-45FC-843A-1ED4FBCD480B}|46_Aulia_Praktikum Desain Pattern.vcxproj|C:\\Users\\Lia\\source\\repos\\46_Aulia_Praktikum Desain Pattern\\RunSession.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{6321FEB9-5D85-45FC-843A-1ED4FBCD480B}|46_Aulia_Praktikum Desain Pattern.vcxproj|solutionrelative:RunSession.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6321FEB9-5D85-45FC-843A-1ED4FBCD480B}|46_Aulia_Praktikum Desain Pattern.vcxproj|C:\\Users\\Lia\\source\\repos\\46_Aulia_Praktikum Desain Pattern\\RunSession.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{6321FEB9-5D85-45FC-843A-1ED4FBCD480B}|46_Aulia_Praktikum Desain Pattern.vcxproj|solutionrelative:RunSession.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{6321FEB9-5D85-45FC-843A-1ED4FBCD480B}|46_Aulia_Praktikum Desain Pattern.vcxproj|C:\\Users\\Lia\\source\\repos\\46_Aulia_Praktikum Desain Pattern\\hand.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
       "RelativeMoniker": "D:0:0:{6321FEB9-5D85-45FC-843A-1ED4FBCD480B}|46_Aulia_Praktikum Desain Pattern.vcxproj|solutionrelative:hand.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{6321FEB9-5D85-45FC-843A-1ED4FBCD480B}|46_Aulia_Praktikum Desain Pattern.vcxproj|C:\\Users\\Lia\\source\\repos\\46_Aulia_Praktikum Desain Pattern\\hand.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{6321FEB9-5D85-45FC-843A-1ED4FBCD480B}|46_Aulia_Praktikum Desain Pattern.vcxproj|solutionrelative:hand.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+      "AbsoluteMoniker": "D:0:0:{6321FEB9-5D85-45FC-843A-1ED4FBCD480B}|46_Aulia_Praktikum Desain Pattern.vcxproj|C:\\Users\\Lia\\source\\repos\\46_Aulia_Praktikum Desain Pattern\\deck.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{6321FEB9-5D85-45FC-843A-1ED4FBCD480B}|46_Aulia_Praktikum Desain Pattern.vcxproj|solutionrelative:deck.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6321FEB9-5D85-45FC-843A-1ED4FBCD480B}|46_Aulia_Praktikum Desain Pattern.vcxproj|C:\\Users\\Lia\\source\\repos\\46_Aulia_Praktikum Desain Pattern\\card.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{6321FEB9-5D85-45FC-843A-1ED4FBCD480B}|46_Aulia_Praktikum Desain Pattern.vcxproj|solutionrelative:card.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{6321FEB9-5D85-45FC-843A-1ED4FBCD480B}|46_Aulia_Praktikum Desain Pattern.vcxproj|C:\\Users\\Lia\\source\\repos\\46_Aulia_Praktikum Desain Pattern\\deck.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
       "RelativeMoniker": "D:0:0:{6321FEB9-5D85-45FC-843A-1ED4FBCD480B}|46_Aulia_Praktikum Desain Pattern.vcxproj|solutionrelative:deck.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{6321FEB9-5D85-45FC-843A-1ED4FBCD480B}|46_Aulia_Praktikum Desain Pattern.vcxproj|C:\\Users\\Lia\\source\\repos\\46_Aulia_Praktikum Desain Pattern\\deck.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{6321FEB9-5D85-45FC-843A-1ED4FBCD480B}|46_Aulia_Praktikum Desain Pattern.vcxproj|solutionrelative:deck.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{6321FEB9-5D85-45FC-843A-1ED4FBCD480B}|46_Aulia_Praktikum Desain Pattern.vcxproj|C:\\Users\\Lia\\source\\repos\\46_Aulia_Praktikum Desain Pattern\\card.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
       "RelativeMoniker": "D:0:0:{6321FEB9-5D85-45FC-843A-1ED4FBCD480B}|46_Aulia_Praktikum Desain Pattern.vcxproj|solutionrelative:card.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{6321FEB9-5D85-45FC-843A-1ED4FBCD480B}|46_Aulia_Praktikum Desain Pattern.vcxproj|C:\\Users\\Lia\\source\\repos\\46_Aulia_Praktikum Desain Pattern\\card.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{6321FEB9-5D85-45FC-843A-1ED4FBCD480B}|46_Aulia_Praktikum Desain Pattern.vcxproj|solutionrelative:card.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     }
   ],
   "DocumentGroupContainers": [
@@ -38,11 +42,37 @@
       "DocumentGroups": [
         {
           "DockedHeight": 321,
-          "SelectedChildIndex": 8,
+          "SelectedChildIndex": 4,
           "Children": [
             {
               "$type": "Bookmark",
               "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "RunSession.cpp",
+              "DocumentMoniker": "C:\\Users\\Lia\\source\\repos\\46_Aulia_Praktikum Desain Pattern\\RunSession.cpp",
+              "RelativeDocumentMoniker": "RunSession.cpp",
+              "ToolTip": "C:\\Users\\Lia\\source\\repos\\46_Aulia_Praktikum Desain Pattern\\RunSession.cpp",
+              "RelativeToolTip": "RunSession.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2026-03-05T22:14:31.861Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "RunSession.h",
+              "DocumentMoniker": "C:\\Users\\Lia\\source\\repos\\46_Aulia_Praktikum Desain Pattern\\RunSession.h",
+              "RelativeDocumentMoniker": "RunSession.h",
+              "ToolTip": "C:\\Users\\Lia\\source\\repos\\46_Aulia_Praktikum Desain Pattern\\RunSession.h",
+              "RelativeToolTip": "RunSession.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2026-03-05T16:24:51.668Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Bookmark",
@@ -50,39 +80,39 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 0,
               "Title": "hand.cpp",
               "DocumentMoniker": "C:\\Users\\Lia\\source\\repos\\46_Aulia_Praktikum Desain Pattern\\hand.cpp",
               "RelativeDocumentMoniker": "hand.cpp",
               "ToolTip": "C:\\Users\\Lia\\source\\repos\\46_Aulia_Praktikum Desain Pattern\\hand.cpp",
               "RelativeToolTip": "hand.cpp",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAA5AAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAA5AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
               "WhenOpened": "2026-03-04T21:56:53.087Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 3,
               "Title": "hand.h",
               "DocumentMoniker": "C:\\Users\\Lia\\source\\repos\\46_Aulia_Praktikum Desain Pattern\\hand.h",
               "RelativeDocumentMoniker": "hand.h",
               "ToolTip": "C:\\Users\\Lia\\source\\repos\\46_Aulia_Praktikum Desain Pattern\\hand.h",
               "RelativeToolTip": "hand.h",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAACAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
               "WhenOpened": "2026-03-04T21:56:39.706Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 6,
               "Title": "deck.cpp",
               "DocumentMoniker": "C:\\Users\\Lia\\source\\repos\\46_Aulia_Praktikum Desain Pattern\\deck.cpp",
               "RelativeDocumentMoniker": "deck.cpp",
               "ToolTip": "C:\\Users\\Lia\\source\\repos\\46_Aulia_Praktikum Desain Pattern\\deck.cpp",
               "RelativeToolTip": "deck.cpp",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAtAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAxAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
               "WhenOpened": "2026-03-04T21:53:50.191Z",
               "EditorCaption": ""
@@ -102,7 +132,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 5,
               "Title": "card.cpp",
               "DocumentMoniker": "C:\\Users\\Lia\\source\\repos\\46_Aulia_Praktikum Desain Pattern\\card.cpp",
               "RelativeDocumentMoniker": "card.cpp",
@@ -115,28 +145,15 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 7,
               "Title": "card.h",
               "DocumentMoniker": "C:\\Users\\Lia\\source\\repos\\46_Aulia_Praktikum Desain Pattern\\card.h",
               "RelativeDocumentMoniker": "card.h",
               "ToolTip": "C:\\Users\\Lia\\source\\repos\\46_Aulia_Praktikum Desain Pattern\\card.h",
               "RelativeToolTip": "card.h",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAACAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAswBEAAAACAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
               "WhenOpened": "2026-03-04T21:48:01.818Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "main.cpp",
-              "DocumentMoniker": "C:\\Users\\Lia\\source\\repos\\46_Aulia_Praktikum Desain Pattern\\main.cpp",
-              "RelativeDocumentMoniker": "main.cpp",
-              "ToolTip": "C:\\Users\\Lia\\source\\repos\\46_Aulia_Praktikum Desain Pattern\\main.cpp",
-              "RelativeToolTip": "main.cpp",
-              "ViewState": "AgIAAAMAAAAAAAAAAAAAABEAAAAkAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2026-03-04T15:48:09.052Z",
               "EditorCaption": ""
             }
           ]

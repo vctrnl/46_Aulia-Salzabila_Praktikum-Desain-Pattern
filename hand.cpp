@@ -1,4 +1,3 @@
-// src/Hand.cpp
 #include "Hand.h"
 
 using namespace std;

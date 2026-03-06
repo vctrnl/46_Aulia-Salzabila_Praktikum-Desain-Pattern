@@ -1,5 +1,4 @@
 #pragma once
-#pragma once
 #include <random>
 #include <vector>
 #include <string>
@@ -11,7 +10,8 @@ using namespace std;
 
 class RunSession {
 public:
-    explicit RunSession(unsigned int seed = 12345);
+    RunSession();                      // seed random, tiap program run beda
+    explicit RunSession(unsigned int seed);
 
     void Start();
 

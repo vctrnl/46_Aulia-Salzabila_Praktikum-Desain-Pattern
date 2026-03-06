@@ -5,7 +5,7 @@ using namespace std;
 
 int main() {
     cout << "Balatro-like prototype\n";
-    RunSession run(12345);
+    RunSession run;          // seed random, jadi kartu yang keluar beda tiap program run
     run.Start();
     cout << "Selesai\n";
     return 0;

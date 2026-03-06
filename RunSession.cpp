@@ -5,19 +5,26 @@
 
 using namespace std;
 
-RunSession::RunSession(unsigned int seed) : rng(seed) {
+RunSession::RunSession()
+    : RunSession(random_device{}()) {
+}
+
+RunSession::RunSession(unsigned int seed)
+    : rng(seed) {
     deck.GenerateStandard52();
     deck.Shuffle(rng);
 }
 
 void RunSession::PrepareDeckIfNeeded(int needCards) {
     if (deck.Size() >= needCards) return;
+
     deck.GenerateStandard52();
     deck.Shuffle(rng);
 }
 
 void RunSession::DealNewHand() {
     PrepareDeckIfNeeded(HAND_SIZE);
+
     hand.Clear();
     for (int i = 0; i < HAND_SIZE; ++i) {
         hand.Add(deck.Draw());
@@ -39,6 +46,7 @@ vector<int> RunSession::ReadPlayIndices() const {
 
         string line;
         getline(cin, line);
+
         if (line.empty()) {
             cout << "Input kosong.\n";
             continue;

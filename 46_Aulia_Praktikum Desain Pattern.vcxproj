@@ -130,6 +130,7 @@
     <ClCompile Include="card.cpp" />
     <ClCompile Include="deck.cpp" />
     <ClCompile Include="hand.cpp" />
+    <ClCompile Include="main.cpp" />
     <ClCompile Include="RunSession.cpp" />
     <ClCompile Include="ScoringSystem.cpp" />
   </ItemGroup>

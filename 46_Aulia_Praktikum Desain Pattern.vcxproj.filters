@@ -24,10 +24,13 @@
     <ClCompile Include="hand.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
-    <ClCompile Include="RunSession.cpp">
+    <ClCompile Include="main.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
     <ClCompile Include="ScoringSystem.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="RunSession.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
   </ItemGroup>
@@ -41,10 +44,10 @@
     <ClInclude Include="hand.h">
       <Filter>Header Files</Filter>
     </ClInclude>
-    <ClInclude Include="RunSession.h">
+    <ClInclude Include="ScoringSystem.h">
       <Filter>Header Files</Filter>
     </ClInclude>
-    <ClInclude Include="ScoringSystem.h">
+    <ClInclude Include="RunSession.h">
       <Filter>Header Files</Filter>
     </ClInclude>
   </ItemGroup>

@@ -1,15 +1,46 @@
 #pragma once
 #include <vector>
-#include <memory>
-#include "Hand.h"
-#include "modifiers/IModifier.h"
+#include "Card.h"
 
 using namespace std;
 
 class ScoringSystem {
 public:
-    int ScoreHand(const Hand& hand, const vector<unique_ptr<IModifier>>& modifiers) const;
+    enum class HandType {
+        HighCard,
+        Pair,
+        TwoPair,
+        ThreeKind,
+        Straight,
+        Flush,
+        FullHouse,
+        FourKind,
+        StraightFlush
+    };
+
+    struct BaseScore {
+        HandType type = HandType::HighCard;
+        int chips = 0;
+        int mult = 1;
+        int finalScore = 0;
+    };
+
+    // cardsPlayed maksimal 5 kartu. Idealnya tepat 5 untuk evaluasi combo poker.
+    BaseScore EvaluateBase(const vector<Card>& cardsPlayed) const;
 
 private:
-    int ComputeBaseChips(const Hand& hand) const;
-};#pragma once
+    HandType EvaluateHandType5(const vector<Card>& v) const;
+
+    bool IsFlush5(const vector<Card>& v) const;
+    bool IsStraight5(const vector<Card>& v) const;
+
+    void BuildRankCounts5(const vector<Card>& v, int counts[15]) const;
+
+    int SumRanksAsChips(const vector<Card>& v) const;
+
+    int CountPairs(const int counts[15]) const;
+    bool HasNOfAKind(const int counts[15], int n) const;
+    bool HasFullHouse(const int counts[15]) const;
+
+    void ApplyComboBase(HandType type, int& chips, int& mult) const;
+};

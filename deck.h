@@ -11,8 +11,8 @@ public:
     void Shuffle(mt19937& rng);
 
     Card Draw();
-    bool Empty() const;
     int Size() const;
+    bool Empty() const;
 
 private:
     vector<Card> cards;

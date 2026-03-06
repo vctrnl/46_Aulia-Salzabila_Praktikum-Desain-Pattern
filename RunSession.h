@@ -1,11 +1,11 @@
-#include <vector>
-#include <memory>
+#pragma once
+#pragma once
 #include <random>
+#include <vector>
+#include <string>
 #include "Deck.h"
 #include "Hand.h"
 #include "ScoringSystem.h"
-#include "ShopSystem.h"
-#include "modifiers/IModifier.h"
 
 using namespace std;
 
@@ -16,23 +16,21 @@ public:
     void Start();
 
 private:
-    void GenerateDeck();
-    void ChooseHand();
-    void PrintHand() const;
+    static const int HAND_SIZE = 8;
+    static const int HANDS_PER_ROUND = 4;
 
-    bool CheckWin(int score) const;
-    int ComputeCashReward(int score, bool win) const;
+    void PrepareDeckIfNeeded(int needCards);
+    void DealNewHand();
+    vector<int> ReadPlayIndices() const;
+    void PrintCurrentHand() const;
+    string HandTypeToString(ScoringSystem::HandType t) const;
 
 private:
     mt19937 rng;
     Deck deck;
     Hand hand;
-
     ScoringSystem scoring;
-    ShopSystem shop;
 
-    int cash = 50;
     int targetScore = 120;
-
-    vector<unique_ptr<IModifier>> modifiers;
+    int roundIndex = 1;
 };

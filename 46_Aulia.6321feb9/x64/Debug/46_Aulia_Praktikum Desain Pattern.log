@@ -1,25 +1,8 @@
-﻿  RunSession.cpp
-C:\Users\Lia\source\repos\46_Aulia_Praktikum Desain Pattern\RunSession.cpp(7,45): error C2614: 'RunSession': illegal member initialization: 'rng' is not a base or member
-C:\Users\Lia\source\repos\46_Aulia_Praktikum Desain Pattern\RunSession.cpp(10,5): error C2065: 'deck': undeclared identifier
-C:\Users\Lia\source\repos\46_Aulia_Praktikum Desain Pattern\RunSession.cpp(11,5): error C2065: 'deck': undeclared identifier
-C:\Users\Lia\source\repos\46_Aulia_Praktikum Desain Pattern\RunSession.cpp(11,18): error C2065: 'rng': undeclared identifier
-C:\Users\Lia\source\repos\46_Aulia_Praktikum Desain Pattern\RunSession.cpp(15,5): error C2065: 'hand': undeclared identifier
-C:\Users\Lia\source\repos\46_Aulia_Praktikum Desain Pattern\RunSession.cpp(17,9): error C2065: 'hand': undeclared identifier
-C:\Users\Lia\source\repos\46_Aulia_Praktikum Desain Pattern\RunSession.cpp(17,18): error C2065: 'deck': undeclared identifier
-C:\Users\Lia\source\repos\46_Aulia_Praktikum Desain Pattern\RunSession.cpp(23,26): error C2065: 'hand': undeclared identifier
-C:\Users\Lia\source\repos\46_Aulia_Praktikum Desain Pattern\RunSession.cpp(23,22): error C2530: 'c': references must be initialized
-C:\Users\Lia\source\repos\46_Aulia_Praktikum Desain Pattern\RunSession.cpp(23,22): error C3531: 'c': a symbol whose type contains 'auto' must have an initializer
-C:\Users\Lia\source\repos\46_Aulia_Praktikum Desain Pattern\RunSession.cpp(23,24): error C2143: syntax error: missing ';' before ':'
-C:\Users\Lia\source\repos\46_Aulia_Praktikum Desain Pattern\RunSession.cpp(23,38): error C2143: syntax error: missing ';' before ')'
-C:\Users\Lia\source\repos\46_Aulia_Praktikum Desain Pattern\RunSession.cpp(30,5): error C2059: syntax error: 'return'
-C:\Users\Lia\source\repos\46_Aulia_Praktikum Desain Pattern\RunSession.cpp(31,1): error C2059: syntax error: '}'
-C:\Users\Lia\source\repos\46_Aulia_Praktikum Desain Pattern\RunSession.cpp(31,1): error C2143: syntax error: missing ';' before '}'
-C:\Users\Lia\source\repos\46_Aulia_Praktikum Desain Pattern\RunSession.cpp(35,5): error C2059: syntax error: 'if'
-C:\Users\Lia\source\repos\46_Aulia_Praktikum Desain Pattern\RunSession.cpp(36,5): error C2059: syntax error: 'if'
-C:\Users\Lia\source\repos\46_Aulia_Praktikum Desain Pattern\RunSession.cpp(37,5): error C2059: syntax error: 'return'
-C:\Users\Lia\source\repos\46_Aulia_Praktikum Desain Pattern\RunSession.cpp(38,1): error C2059: syntax error: '}'
-C:\Users\Lia\source\repos\46_Aulia_Praktikum Desain Pattern\RunSession.cpp(38,1): error C2143: syntax error: missing ';' before '}'
-C:\Users\Lia\source\repos\46_Aulia_Praktikum Desain Pattern\RunSession.cpp(40,26): error C2143: syntax error: missing ';' before '{'
-C:\Users\Lia\source\repos\46_Aulia_Praktikum Desain Pattern\RunSession.cpp(40,26): error C2447: '{': missing function header (old-style formal list?)
-  RunSession.h
+﻿  card.cpp
+  deck.cpp
+  hand.cpp
+  main.cpp
+  RunSession.cpp
+  ScoringSystem.cpp
   Generating Code...
+  46_Aulia_Praktikum Desain Pattern.vcxproj -> C:\Users\Lia\source\repos\46_Aulia_Praktikum Desain Pattern\x64\Debug\46_Aulia_Praktikum Desain Pattern.exe
